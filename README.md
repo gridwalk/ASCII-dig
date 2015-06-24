@@ -5,10 +5,10 @@ This is a fun little project where I'm trying to make a 2D sidescroller using HT
 
 # <a href="http://gridwalk.github.io/ASCII-dig/">Play it online!</a>
 
-Arrows: Move
-Shift + Arrow: Dig
-Command + Arrow: Place ladder
-Z + Arrow: Place bomb
+Arrows: Move<br>
+Shift + Arrow: Dig<br>
+Command + Arrow: Place ladder<br>
+Z + Arrow: Place bomb<br>
 
 <img src="http://www.everythingihaveeverdone.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-21-at-4.02.37-PM-1024x538.png" />
 
